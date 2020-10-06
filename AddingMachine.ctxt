@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AddingMachine
+comment0.text=\r\n\ Assignment\ 1(canvas)?\ 2(instructions)?\r\n\r\n\ @author\ Matthew\ Mooneyham\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=AddingMachine()
+comment2.params=
+comment2.target=int\ getTotal()
+comment3.params=value
+comment3.target=void\ add(int)
+comment4.params=value
+comment4.target=void\ subtract(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ clear()
+numComments=7
